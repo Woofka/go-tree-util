@@ -1,2 +1,2 @@
 # go-tree-util
-Simple recursive tree util written for learning go
+Simple recursive tree util written for learning GoLang
